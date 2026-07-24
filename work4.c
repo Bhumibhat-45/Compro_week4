@@ -9,11 +9,11 @@ int main() {
     printf("Enter the first character of your name: ");
     scanf("%c", &name_first);
 
-    praintf("Enter your age: ");
+    printf("Enter your age: ");
     scanf("%d",&age);
 
 
     printf("Hi %c. You are %d years old.\n", name_first, age);
 
-    reintf 0;
+    return 0;
 }
